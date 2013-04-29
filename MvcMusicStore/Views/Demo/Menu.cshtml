@@ -1,0 +1,7 @@
+﻿@model MvcMusicStore.Models.MenuOptions
+<ul class="exampleArtistMenu" style="height:@(Model.Height)px; width:@(Model.Width)px;">
+    @foreach (var item in Model.Artists)
+    {
+        <li><a href="#">@item.Name</a></li>
+    }
+</ul>

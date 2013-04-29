@@ -1,0 +1,47 @@
+﻿@model MvcMusicStore.Models.Genre
+@{
+    ViewBag.Title = "Browse";
+}
+
+<h2>Browse</h2>
+
+<div class="genre">
+    <h3><em>@Model.Name</em> Albums</h3>
+
+    <ul id="album-list">
+        @foreach (var album in Model.Albums)
+        {
+            <li>
+                <a href="@Url.Action("Details", new { id = album.AlbumID })">
+                    <img alt="@album.Title" src="@album.AlbumArtUrl" />
+                    <span>@album.Title</span>
+                </a>
+            </li>
+        }
+    </ul>
+</div>
+<div class="clear-fix"></div>
+<a href="javascript:void(0);" id="buttonDailyDeal" class="button">Check out today's deals</a>
+<div class="dialog" id="dialogDailyDeals">
+    <a href="javascript:void(0);" class="closeDialog">Close</a>
+    <h2>Daily Deals</h2>
+    <div class="divContentContainer" id="dialogContent"></div>
+</div>
+
+@section scripts{
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/bpopup")
+    <script src="@Url.Content("/Scripts/Common.js")"></script>
+    <script type="text/javascript">
+        $(function () {
+            $("#buttonDailyDeal").on("click", function () {
+                if (window.console) console.log('you just clicked me');
+                $("#dialogDailyDeals").bPopup({
+                    closeClass: "closeDialog",
+                    loadUrl: '@Url.Action("DailyDeal","Home")',
+                    contentContainer: "#dialogContent"
+                });
+            });
+        });
+    </script>
+}

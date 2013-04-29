@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@Html.Action("Menu", new { 
+    options = new MvcMusicStore.Models.MenuOptions{ 
+        Width = 300, 
+        Height = 600 
+    }
+} )

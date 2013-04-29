@@ -1,0 +1,67 @@
+﻿@model MvcMusicStore.ViewModels.ShoppingCartViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Review your cart:</h2>
+<p class="button">
+    @Html.ActionLink("Checkout >>", "AddressAndPayment", "Checkout", null, new{ @class = "button"})
+</p>
+<div id="update-message"></div>
+<table>
+    <tr>
+        <th>Album Name</th>
+        <th>Price (each)</th>
+        <th>Quantity</th>
+        <th>&nbsp;</th>
+    </tr>
+    @foreach (var item in Model.CartItems)
+    {
+         <tr id="row-@item.RecordId">
+             <td>
+                 @Html.ActionLink(item.Album.Title, "Details", "Store", new{id=item.AlbumId}, null)
+             </td>
+             <td>
+                 @item.Album.Price
+             </td>
+             <td id="item-count-@item.RecordId">
+                 @item.Count
+             </td>
+             <td>
+                 <a href="javascript:void(0);" class="RemoveLink" data-id="@item.RecordId">Remove from cart</a>
+             </td>
+         </tr>
+    }
+    <tr>
+        <td>Total</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td id="cart-total">@Model.CartTotal</td>
+    </tr>
+</table>
+@Scripts.Render("~/bundles/jqueryval")
+<script type="text/javascript">
+    $(function () {
+        //document ready -> link to remove album event
+        $(".RemoveLink").on("click", function () {
+            //get the id from the link
+            var recordToDelete = $(this).attr("data-id");
+            if (recordToDelete != "") {
+                //if a record is there let's post to a remove action
+                $.post("/ShoppingCart/RemoveFromCart", { "id": recordToDelete },
+                    function (data) {
+                        //successful requests now happen
+                        //update the elemens
+                        if (data.ItemCount == 0) {
+                            $('#row-' + data.DeleteId).fadeOut('slow');
+                        } else {
+                            $('#item-count-' + data.DeleteId).text(data.ItemCount);
+                        }
+                        $('#cart-total').text(data.CartTotal);
+                        $('#update-message').text(data.Message);
+                        $('#cart-status').text('Cart (' + data.CartCount + ')');
+                    });
+            }
+        });
+    });
+</script>

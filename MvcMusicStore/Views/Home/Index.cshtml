@@ -1,0 +1,43 @@
+﻿@model List<MvcMusicStore.Models.Album>
+@{
+    ViewBag.Title = "Home Page";
+}
+<div id="promotion"></div>
+
+<div class="clear-fix"></div>
+
+<div class="float-right">
+    @using (Html.BeginForm("Search", "Home", FormMethod.Get))
+    {
+        <input type="text" name="q" />
+        <input type="submit" value="Search" />
+    }
+</div>
+
+<h3><em>Fresh</em> off the grill</h3>
+
+<ul id="album-list">
+    @foreach (var album in Model)
+    {
+        <li>
+            <a href="@Url.Action("Details", "Store", new { id = album.AlbumID })">
+                <img alt="@album.Title" src="@album.AlbumArtUrl" />
+                <span>@album.Title</span>
+            </a>
+        </li>
+    }
+</ul>
+<div class="clear-fix"></div>
+<div id="dailydeal">
+    @Ajax.ActionLink("Click here to see today's special!",
+    "DailyDeal",
+    new AjaxOptions{
+        UpdateTargetId = "dailydeal",
+        InsertionMode=InsertionMode.Replace,
+        HttpMethod="GET"
+    })
+</div>
+@section scripts{
+    @Scripts.Render("~/bundles/jqueryval")
+    <script src="~/Scripts/Common.js" ></script>
+}

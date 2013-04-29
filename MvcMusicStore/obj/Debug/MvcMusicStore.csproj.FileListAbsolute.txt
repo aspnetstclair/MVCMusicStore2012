@@ -1,0 +1,1185 @@
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\tawrey.CA\Desktop\Chapter 1\prep\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 1\prep\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\1. The Home Controller\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\2. Writing Your First Controller\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 2\prep\3. Parameters in Controller Actions\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 4\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+L:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+D:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 5\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+L:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+E:\ST.CLAIR\WEB552 MVC.NET\MID-TERM PRIMER\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+E:\ST.CLAIR\WEB552 MVC.NET\Chapter 6\inclass\MvcMusicStore_v0.12_021313\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+F:\Chapter 6\MvcMusicStore_v0.13_022713\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+F:\Chapter 6\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\web.BASE-01\Desktop\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+F:\Chapter 6\inclass\MvcMusicStore_v0.14_030313_PostMidTerm\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+F:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+N:\Chapter 6\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.Migrations.AddEmailToUserProfile.resources
+F:\Chapter 7\inclass\MvcMusicStore_v0.18_210313\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csproj.GenerateResource.Cache
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.Migrations.AddEmailToUserProfile.resources
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csproj.GenerateResource.Cache
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+N:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.Migrations.AddEmailToUserProfile.resources
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csproj.GenerateResource.Cache
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+F:\Chapter 7\inclass\MvcMusicStore\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.Migrations.AddEmailToUserProfile.resources
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csproj.GenerateResource.Cache
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+F:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Optimization.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Net.Http.Formatting.xml
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.xml
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Http.WebHost.xml
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.Data.xml
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\WebMatrix.WebData.xml
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.Migrations.AddEmailToUserProfile.resources
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csproj.GenerateResource.Cache
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+K:\Chapter 8\inclass\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb

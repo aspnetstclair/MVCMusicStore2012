@@ -1,0 +1,57 @@
+﻿@model MvcMusicStore.Models.Album
+
+@{
+    ViewBag.Title = "HelpersExample";
+}
+
+<h2>HelpersExample</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(excludePropertyErrors: true)
+    <fieldset>
+        <legend>Edit Album</legend>
+
+        @Html.Hidden("AlbumID", Model.AlbumID)
+
+        <p> @ViewBag.Message</p>
+        <p>
+            @Html.LabelFor(m => m.Title, "Title")
+            @Html.EditorFor(m => m.Title)
+
+            @*
+            @Html.Label("Title")
+            @Html.TextBox("Title", Model.Title)
+            @Html.ValidationMessage("Title")
+            *@
+        </p>
+        <p>
+            @Html.LabelFor(m => m.Price, "Price")
+            @Html.TextBoxFor(m => m.Price)
+            @Html.ValidationMessageFor(m => m.Price)
+           @* @Html.TextBox("Price",Model.Price)*@
+        </p>
+        <p>
+            @Html.Label("GenreID")
+            @Html.DropDownList("GenreID", String.Empty)
+        </p>
+        <p>
+            @Html.Label("ArtistID")
+            @Html.DropDownList("ArtistID",String.Empty)
+        </p>
+        @*
+        <p>
+            @Html.TextArea("TextTest", "Hello <br/> World")
+        </p>
+        <p>
+            @Html.TextArea("ExtraText", "Hello <br/> World", 10, 80, null)
+        </p>
+        *@
+         <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+<div>
+    @Html.ActionLink("Back to List","Index","Home")
+</div>
